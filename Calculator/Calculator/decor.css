@@ -1,0 +1,35 @@
+/*STYLING BODY AND HEADER*/
+body {
+  color: black;
+  background-color: gray;
+  border: 2px solid orange;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 30px;
+  height: 350px;
+  width: 450px;
+}
+#titre {
+  color: orange;
+  font-weight:bold;
+  text-decoration: underline;
+  text-align: center;
+ }
+ #x {
+   height: 30px;
+   width: 80px;
+   background-color: #D3D3D3;
+  }
+  #y {
+    height: 30px;
+    width: 80px;
+    background-color: #D3D3D3;
+   }
+   #titre1 {
+     color: BLACK;
+     font-weight:bold;
+     text-decoration: underline;
+     text-align: center;
+    }

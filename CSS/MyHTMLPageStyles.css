@@ -1,0 +1,15 @@
+/*STYLING BODY AND HEADER*/
+body {
+  color: blue;
+  background-color: beige;
+  border: 2px solid purple;
+}
+#titre {
+  color: magenta;
+  font-weight:bold;
+  text-decoration: underline;
+  text-align: center;
+ }
+ .paragraph {
+   text-align: center;   
+ }

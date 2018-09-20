@@ -1,0 +1,3 @@
+//double inverted commas are converted to single inverted comma inside the function in JS
+document.write("<h1><u><b><p align='center'>J'aime la programmation informatique!</p></b></u></h1>");
+document.write("<p align='center'>J'ai aimé les ordinateurs toute ma vie.<br>Nous avons appris comment utiliser le langage LOGO en première année Cétait ma première exposition à la programmation informatique.<br>Les ordinateurs et la technologie ont le pouvoir de changer le monde pour le mieux.<br> Pour aider plus de filles à apprendre comment coder I et Faradjine a commencé<br>  <a href='Society Of Women Coders.html'>Society Of Women Coders</a>!<br><br><img src='linkedinpicture.png' alt='moi au travail'></p>");
